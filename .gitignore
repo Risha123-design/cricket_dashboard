@@ -1,0 +1,15 @@
+# Python
+cricket_backend/.venv/
+__pycache__/
+*.pyc
+
+# Django
+cricket_backend/db.sqlite3
+cricket_backend/staticfiles/
+
+# Node
+cricket-dashboard/node_modules/
+cricket-dashboard/dist/
+
+# IDE
+.vscode/
